@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
-public class Receipt extends Calculator {
+public class Receipt{
 
 	private String iceCreamString;
 	private String scoopsString;
